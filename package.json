@@ -1,10 +1,9 @@
 {
   "name": "readme-generator",
   "version": "1.0.0",
-  "description": "readme generator app",
+  "description": "readme generator",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,8 +11,7 @@
     "url": "git+https://github.com/JennyRussell/readme-generator.git"
   },
   "keywords": [
-    "readme",
-    "generator"
+    "readme"
   ],
   "author": "Jenny Russell",
   "license": "MIT",

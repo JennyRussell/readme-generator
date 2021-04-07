@@ -82,13 +82,13 @@ inquirer
          # Table of Contents
         ---------------------
         
-         * [Description][#description]
-         * [Installation][#installation]
-         * [Usage][#usage]
-         * [Contributing][#contributing]
-         * [License][#license]
-         * [Tests][#tests]
-         * [Questions][#questions]
+         * [Description](#description)
+         * [Installation](#installation)
+         * [Usage](#usage)
+         * [Contributing](#contributing)
+         * [License](#license)
+         * [Tests](#tests)
+         * [Questions](#questions)
         
         # Description
         ---------------------
