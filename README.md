@@ -11,32 +11,32 @@
          * [Tests](#tests)
          * [Questions](#questions)
         
-        # Description
-        ---------------------
+        ## Description
+        
         This application utilizes user generated information to fill out a readme file.
 
-        # Installation
-        ---------------------
+        ## Installation
+        
         Install inquirer and fs modules and use node index.js command in terminal.
 
-        # Usage
-        ---------------------
+        ## Usage
+        
         This application uses Inquirer to build the prompts to be filled out by the user and fs to generate a new readme file.
 
-        # Contributing
-        ---------------------
-        Please feel free to clone repo and submit bug fixes. Thanks!
+        ## Contributing
+        
+        Please feel free to clon repo and submit bug fixes. Thanks!
 
-        # License
-        ---------------------
+        ## License
+        
         MIT
 
-        # Tests
-        ---------------------
+        ## Tests
+       
         No testing currently.
 
-        # Questions
-        ---------------------
+        ## Questions
+        
         Please contact me via email
-        email: jennylukovsky@gmail.com
-        github: JennyRussell
+        jennylukovsky@gmail.com
+        JennyRussell
