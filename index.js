@@ -131,17 +131,3 @@ function generateFile(fileName, data) {
         console.log('README generated successfully!');
     })
 }
-
-
-
-
-
-
-
-// .catch(error => {
-//     if (error.isTtyError) {
-//         console.log("Could not render prompt in current environment")
-//     } else {
-//         console.log("Something went wrong")
-//     }
-// })
