@@ -11,7 +11,7 @@
          * [Tests](#tests)
          * [Questions](#questions)
         
-        # <a name="description"></a>Description
+        # Description
         ---------------------
         This application utilizes user generated information to fill out a readme file.
 
