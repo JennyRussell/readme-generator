@@ -25,7 +25,7 @@
 
         # Contributing
         ---------------------
-        Please feel free to clon repo and submit bug fixes. Thanks!
+        Please feel free to clone repo and submit bug fixes. Thanks!
 
         # License
         ---------------------
